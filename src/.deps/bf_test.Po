@@ -1,1 +1,49 @@
-# dummy
+bf_test.o: bf_test.c \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libcxx/ctype.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libcxx/__config \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/compat/ctype.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/ctype.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/features.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/bits/alltypes.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libcxx/stdio.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/stdio.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libcxx/math.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/compat/math.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/math.h \
+  ../config.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libcxx/stdlib.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/compat/stdlib.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/stdlib.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/alloca.h
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libcxx/ctype.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libcxx/__config:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/compat/ctype.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/ctype.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/features.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/bits/alltypes.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libcxx/stdio.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/stdio.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libcxx/math.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/compat/math.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/math.h:
+
+../config.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libcxx/stdlib.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/compat/stdlib.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/stdlib.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/alloca.h:

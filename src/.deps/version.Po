@@ -1,1 +1,61 @@
-# dummy
+version.o: version.c version.h syscfg.h ../config.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/sys/types.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/features.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/bits/alltypes.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/endian.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libcxx/stdint.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libcxx/__config \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/stdint.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/bits/stdint.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/sys/select.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/sys/sysmacros.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/sys/wait.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/signal.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/bits/signal.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/sys/resource.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/sys/time.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/bits/resource.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libcxx/stdbool.h \
+  /home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/stdbool.h
+
+version.h:
+
+syscfg.h:
+
+../config.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/sys/types.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/features.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/bits/alltypes.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/endian.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libcxx/stdint.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libcxx/__config:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/stdint.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/bits/stdint.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/sys/select.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/sys/sysmacros.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/sys/wait.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/signal.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/bits/signal.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/sys/resource.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/sys/time.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/bits/resource.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libcxx/stdbool.h:
+
+/home/shikhar/emsdk/fastcomp/emscripten/system/include/libc/stdbool.h:
